@@ -40,3 +40,9 @@ The following image shows the template "Sneeze.html" which shows the use of unor
 <br />
 <br />
 
+The following image shows the template "Rainbow.html" which shows the use of span and style tags. 
+<br>
+<br>
+  <img src="https://i.imgur.com/RGwadKX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
