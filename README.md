@@ -14,7 +14,7 @@ This repository showcases various HTML templates demonstrating the use of differ
 
 <h2>Environments Used </h2>
 
-- <b>Visual Studio Code</b> (21H2)
+- <b>Visual Studio Code</b>
 
 <h2>Walk-through:</h2>
 
@@ -75,3 +75,4 @@ This repository showcases various HTML templates demonstrating the use of differ
   <img src="https://i.imgur.com/2WT9mBA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+<p/>
